@@ -1,0 +1,8 @@
+pulic class{[D[D[D[D[D[D[D[D[D[Db[C[C[C[C[D[C[C[C[C[C HelloWorld{
+
+System.out.println();[D[D""[DHello Wrold);
+
+}[A[A[A
+
+[A[B[B[C[C
+
